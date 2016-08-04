@@ -1,0 +1,31 @@
+_repo: Myths-and-Myth-Makers--13-Old-Tales-and-Superstitions-Interpreted-by-Comparative-Mythology_1061
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcsh 'Folklore'
+- !lcc 'GR'
+- !lcc 'BL'
+- GITenberg
+title: "Myths and Myth-Makers\r\nOld Tales and Superstitions Interpreted by Comparative\
+  \ Mythology"
+url: http://www.gutenberg.org/ebooks/1061
